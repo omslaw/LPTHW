@@ -1,0 +1,20 @@
+print - prints out string/number or variable
+"" - this surrounds a string
+'' - this also surrounds string
+# - This is for a comment and anything after it is ignored. 
+, - this seperated statments on the same line
+
+math symbols:
++   plus is addition
+-   minus is subtraction 
+/   slash for dividing
+*   asterisk for multiplying
+%   percent this gets the remainder
+<   less than 
+>   greater than
+<=  less than equal
+>=  greater than equal
+
+= - is passing argument on the right into the the variable on the left
+== - tests if both things have the same values
+_ - is and underscore and and puts imaginary space between words for use in variables
